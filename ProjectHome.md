@@ -1,0 +1,1 @@
+Eagle sch , brd and lib files for a stepper motor driver for KM061 Superior electric motors.  The board outputs up to 10 amps from 0-60Volts for two stepper motors.
